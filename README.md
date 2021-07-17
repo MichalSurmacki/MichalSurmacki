@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Michal feel free to check out my projects and 💬comment/🔥roast them. 
+I'm open to any feedback 🙌
+
+📨 You can contact me via [<img align="center" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+🔭 I’m currently working on my personal portfolio <br>
+🌱 I’m currently learning .NET <br>
+
+⚡ Fun fact: My hobby is beekeeping 🐝 and making wine 🍷
 
 <!--
-**MichalSurmacki/MichalSurmacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MichalSurmacki/MichalSurmacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: https://www.linkedin.com/in/micha%C5%82-surmacki-aa06981b0/
