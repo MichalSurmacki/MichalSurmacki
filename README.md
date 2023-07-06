@@ -3,9 +3,6 @@ I'm open to any feedback 🙌
 
 📨 You can contact me via [<img align="center" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-🔭 I’m currently working on my personal portfolio <br>
-🌱 I’m currently learning .NET <br>
-
 ⚡ Fun fact: My hobby is beekeeping 🐝 and making wine 🍷
 
 <!--
